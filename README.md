@@ -1,1 +1,1 @@
-# flutter-image-tags-parser
+# Flutter Image Tags Parser
